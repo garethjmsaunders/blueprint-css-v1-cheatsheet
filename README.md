@@ -1,6 +1,16 @@
-# Blueprint CSS (<= v1.x) cheat sheet
+![Blueprint cheatsheets heading](img/header-cheatsheets.png)
 
-Spend your time coding, not trying to remember class names
+# Blueprint CSS cheat sheet
+
+**Spend your time coding, not trying to remember class names**
+
+![Blueprint cheatsheets example](img/header-blueprint-cheatsheet.png)
+
+* Project: Blueprint cheat sheets
+* Version: 4.4.0
+* Author: Gareth J M Saunders
+* Description: Cheat sheet for use with Blueprint CSS v.1.0.1 and lower.
+* Last updated: Sunday 18 March 2012
 
 **This is a cheat sheet for the original Blueprint CSS framework (not v3.x which uses CSS Grid and Flexbox) and is provided for reference and archive purposes.**
 
