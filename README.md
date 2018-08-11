@@ -16,6 +16,8 @@
 
 ---
 
+## About
+
 The Blueprint cheat sheet is a handy guide to all the classes used in [Blueprint CSS](https://github.com/joshuaclayton/blueprint-css). It is available for the following versions of Blueprint CSS:
 
 * Blueprint CSS v1.0.1
